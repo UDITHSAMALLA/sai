@@ -1,0 +1,24 @@
+linux commands used for the git hub
+
+cd=> used to create a directoty
+clear=> used to clear the window
+ls=>list all the files in it
+ls -a=> list all the hidden file s too
+mkdir=>create a new directory or folder
+touch=>create a file(file format) WHOSE SIZE IS EMPTY
+pwd=>present working directory
+cd ..=> back command to get out of directory
+cd\=> come out of all the directories
+cd => come out of all the directories
+rm=> used to remove files
+rm *.(specific format) ex.. rm *.txt => used to remove all the specific format files
+rmdir => use delete remove specific folders or directories
+rm -rf ,rf stands for reccursive folder= > used to remove the directories which contain the data 
+vi => used to insert data into the specific file
+then press I to insert data 
+then press esc to get out of insert mode
+then use
+:wq => used for save and quit where w is used for save and q is used for the quit
+cat => used for the displaying the content  of that particular file
+we can use it to dispaly multiple data of files too
+ls -l=> used for the listing of all the permissions
